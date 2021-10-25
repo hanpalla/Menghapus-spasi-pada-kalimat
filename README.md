@@ -1,0 +1,1 @@
+# Menghapus-spasi-pada-kalimat
