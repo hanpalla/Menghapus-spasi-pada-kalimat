@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
-    char kalimat[50], tanpaSpasi[25], spasi[25];
+    char kalimat[50], tanpaSpasi[25];
     int i = 0, j = 0, k = 0;
     system("cls");
     printf("Input kalimat sebelum spasi dihapus\t: ");
